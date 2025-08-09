@@ -1,3 +1,3 @@
 # Summary
 
-- [Chapter 1](./hb-beginner.md)
+- [ホームブリューイングビギナー編](./hb-beginner.md)
