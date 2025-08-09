@@ -22,5 +22,5 @@
 
   // コンテナ内でVSCodeを実行するユーザーをroot以外にする場合
   "remoteUser": "vscode",
-  "workspaceFolder": "/workspaces/mdBook-base",
+  "workspaceFolder": "/workspaces/homebew-notebook"
 }

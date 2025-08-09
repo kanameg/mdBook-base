@@ -24,4 +24,4 @@ ENV PATH="/home/vscode/.cargo/bin:${PATH}"
 RUN cargo install mdbook
 
 # 作業ディレクトリを設定
-WORKDIR /workspaces/mdBook-base
+WORKDIR /workspaces/homebew-notebook
